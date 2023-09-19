@@ -1,0 +1,13 @@
+Jalen Freeman Email Address - jofreeman1@my.waketech.edu
+1.	A brief description of your GitHub account – The GitHub profile tells people the story of your work through repositories and lists you’ve pinned.
+
+2.	A brief description of the repository you created – I can store a variety of projects in GitHub repositories, including open-source projects. With open-source projects, you can share code to make better, more reliable software. You can create public repositories for an open-source project. When creating your public repository, make sure to include a license file that determines how you want the project to be shared with others. 
+
+
+3.	A brief description of the steps you took to clone the repository onto your local machine – 
+
+1.	To clone the repository using HTTPS, under HTTPS click the clipboard.
+2.	To clone the repository using an SSH key, including a certificate issued by the organization click SSH, then click clipboard.
+3.	Cloning a repository using GitHub CLI. Click GitHub CLI.
+4.	Open terminal.
+5.	Type git clone, and then paste the URL I entered earlier. 
